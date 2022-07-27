@@ -1,1 +1,2 @@
-
+config:
+  info: master bransh.springcloud2022-config/config-prod.yml  version = 1
